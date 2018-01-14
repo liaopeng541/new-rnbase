@@ -15,6 +15,7 @@ import JPushModule from 'jpush-react-native';
 import Icon from 'react-native-vector-icons/Ionicons'
 import Device from 'react-native-device-info';
 import SplashScreen from 'react-native-splash-screen'
+import Orientation from 'react-native-orientation';
 export default class RootNavigator extends Component<{}> {
 
     initandroidpush()
@@ -57,6 +58,7 @@ export default class RootNavigator extends Component<{}> {
     }
     componentDidMount() {
         SplashScreen.hide();
+        Orientation.lockToPortrait();
         if (Platform.OS == "android") {
             this.initandroidpush();
         }else{

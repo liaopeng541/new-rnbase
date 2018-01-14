@@ -327,6 +327,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-orientation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55e3ef46f3483e976892b738f534078f08b27b47">
+        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/rnbase-react-native-orientation-unspecified_89908089193ac13e748f847790ca36e0356f6008.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"

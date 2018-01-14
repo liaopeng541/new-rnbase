@@ -30,6 +30,7 @@ MERGED from [com.facebook.react:react-native:0.44.3] /Users/liao/www/reactnative
 		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-sdk
 ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [rnbase:react-native-orientation:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-orientation/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [rnbase:react-native-splash-screen:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-splash-screen/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [rnbase:react-native-device-info:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-device-info/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/AndroidManifest.xml:17:5-43
