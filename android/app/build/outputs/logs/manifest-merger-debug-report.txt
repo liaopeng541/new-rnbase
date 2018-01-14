@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:1:1-37:12
+ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:1:1-41:12
 	package
 		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:2:5-25
 		INJECTED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml
@@ -17,6 +17,7 @@ ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManife
 		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:15:5-67
 MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/AndroidManifest.xml:21:5-66
 MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.4/AndroidManifest.xml:21:5-66
 MERGED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:18:5-67
@@ -28,8 +29,33 @@ MERGED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/
 MERGED from [com.facebook.react:react-native:0.44.3] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:9:5-80
+MERGED from [rnbase:react-native-syan-image-picker:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-syan-image-picker/unspecified/AndroidManifest.xml:11:5-80
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:11:5-80
+MERGED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:10:5-81
+MERGED from [rnbase:react-native-syan-image-picker:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-syan-image-picker/unspecified/AndroidManifest.xml:12:5-81
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:12:5-81
+MERGED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:11:5-65
+MERGED from [rnbase:react-native-syan-image-picker:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-syan-image-picker/unspecified/AndroidManifest.xml:13:5-65
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:11:22-62
 uses-sdk
-ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:9:5-11:41
+ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:13:5-15:41
+MERGED from [rnbase:react-native-syan-image-picker:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-syan-image-picker/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.LuckSiege.PictureSelector:ucrop:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/ucrop/v2.1.7/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/io.reactivex.rxjava2/rxandroid/2.0.1/AndroidManifest.xml:19:5-43
 MERGED from [rnbase:react-native-orientation:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-orientation/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [rnbase:react-native-splash-screen:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-splash-screen/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [rnbase:react-native-device-info:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-device-info/unspecified/AndroidManifest.xml:7:5-9:41
@@ -62,15 +88,17 @@ MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/liao/www/reactnative/r
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:11:9-38
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:15:9-38
 		INJECTED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:14:9-35
 		INJECTED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:13:5-35:19
+ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:17:5-39:19
+MERGED from [rnbase:react-native-syan-image-picker:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-syan-image-picker/unspecified/AndroidManifest.xml:15:5-25:19
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:22:5-68:19
 MERGED from [rnbase:react-native-splash-screen:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-splash-screen/unspecified/AndroidManifest.xml:11:5-15:19
 MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/AndroidManifest.xml:23:5-19
 MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.4/AndroidManifest.xml:23:5-19
@@ -92,59 +120,179 @@ MERGED from [com.android.support:support-compat:25.2.0] /Users/liao/www/reactnat
 MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:3:3-17
 MERGED from [org.webkit:android-jsc:r174650] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/AndroidManifest.xml:2:3-17
 	android:label
-		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:16:7-39
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:20:7-39
 	android:supportsRtl
-		ADDED from [rnbase:react-native-splash-screen:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-splash-screen/unspecified/AndroidManifest.xml:14:9-35
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:24:9-35
 	android:allowBackup
-		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:15:7-33
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:19:7-33
 	android:icon
-		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:17:7-41
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:21:7-41
 	android:theme
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:22:7-38
+	android:name
 		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:18:7-38
-	android:name
-		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:14:7-38
 activity#com.rnbase.MainActivity
-ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:19:7-28:18
+ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:23:7-32:18
 	android:label
-		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:21:9-41
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:25:9-41
 	android:windowSoftInputMode
-		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:23:9-51
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:27:9-51
 	android:configChanges
-		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:22:9-79
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:26:9-79
 	android:name
-		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:20:9-37
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:24:9-37
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:24:9-27:25
+ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:28:9-31:25
 action#android.intent.action.MAIN
-ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:25:13-65
+ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:29:13-65
 	android:name
-		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:25:21-62
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:29:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:26:13-73
+ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:30:13-73
 	android:name
-		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:26:23-70
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:30:23-70
 activity#com.rnbase.SecondActivity
-ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:29:9-61
+ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:33:9-61
 	android:name
-		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:29:19-59
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:33:19-59
 meta-data#JPUSH_CHANNEL
-ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:31:1-73
+ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:35:1-73
 	android:value
-		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:31:41-71
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:35:41-71
 		INJECTED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml
 	android:name
-		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:31:12-40
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:35:12-40
 meta-data#JPUSH_APPKEY
-ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:32:1-73
+ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:36:1-73
 	android:value
-		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:32:40-71
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:36:40-71
 		INJECTED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml
 	android:name
-		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:32:12-39
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:36:12-39
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:34:7-84
+ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:38:7-84
 	android:name
-		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:34:17-81
+		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:38:17-81
+provider#android.support.v4.content.FileProvider
+ADDED from [rnbase:react-native-syan-image-picker:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-syan-image-picker/unspecified/AndroidManifest.xml:16:9-24:20
+	android:authorities
+		ADDED from [rnbase:react-native-syan-image-picker:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-syan-image-picker/unspecified/AndroidManifest.xml:18:13-60
+	android:grantUriPermissions
+		ADDED from [rnbase:react-native-syan-image-picker:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-syan-image-picker/unspecified/AndroidManifest.xml:20:13-47
+	android:exported
+		ADDED from [rnbase:react-native-syan-image-picker:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-syan-image-picker/unspecified/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [rnbase:react-native-syan-image-picker:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-syan-image-picker/unspecified/AndroidManifest.xml:17:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [rnbase:react-native-syan-image-picker:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-syan-image-picker/unspecified/AndroidManifest.xml:21:13-23:54
+	android:resource
+		ADDED from [rnbase:react-native-syan-image-picker:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-syan-image-picker/unspecified/AndroidManifest.xml:23:17-51
+	android:name
+		ADDED from [rnbase:react-native-syan-image-picker:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-syan-image-picker/unspecified/AndroidManifest.xml:22:17-67
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:14:5-84
+MERGED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:25:5-84
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:14:22-81
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:16:5-73
+MERGED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:23:5-73
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:16:22-70
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:17:5-76
+MERGED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:17:22-73
+uses-permission#android.permission.WRITE_MEDIA_STORAGE
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:18:5-78
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:18:22-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:19:5-79
+MERGED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:20:22-68
+provider#com.luck.picture.lib.PictureFileProvider
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:25:9-33:20
+	android:authorities
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:27:13-60
+	android:grantUriPermissions
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:29:13-47
+	android:exported
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:26:13-68
+activity#com.luck.picture.lib.PictureSelectorActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:35:9-39:55
+	android:screenOrientation
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:37:13-49
+	android:windowSoftInputMode
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:39:13-52
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:38:13-50
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:36:13-72
+activity#com.luck.picture.lib.PictureBaseActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:40:9-42:52
+	android:screenOrientation
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:41:13-68
+activity#com.luck.picture.lib.PicturePreviewActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:43:9-46:53
+	android:screenOrientation
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:45:13-49
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:46:13-50
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:44:13-71
+activity#com.luck.picture.lib.PictureVideoPlayActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:47:9-51:53
+	android:screenOrientation
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:50:13-47
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:49:13-74
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:51:13-50
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:48:13-73
+activity#com.luck.picture.lib.PictureExternalPreviewActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:52:9-55:53
+	android:screenOrientation
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:54:13-49
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:55:13-50
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:53:13-79
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:56:9-59:72
+	android:screenOrientation
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:58:13-49
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:59:13-69
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:57:13-60
+activity#com.yalantis.ucrop.PictureMultiCuttingActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:60:9-63:72
+	android:screenOrientation
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:62:13-49
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:63:13-69
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:61:13-74
+activity#com.luck.picture.lib.PicturePlayAudioActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:64:9-67:72
+	android:screenOrientation
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:66:13-49
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:67:13-69
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.7] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/AndroidManifest.xml:65:13-73
 uses-permission#com.google.android.c2dm.permission.RECEIVE
 ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/AndroidManifest.xml:20:5-81
 MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.4/AndroidManifest.xml:20:5-81
@@ -186,34 +334,10 @@ uses-permission#android.permission.READ_PHONE_STATE
 ADDED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:20:5-75
 	android:name
 		ADDED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:20:22-72
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:21:5-81
-	android:name
-		ADDED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:21:22-78
-uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:22:5-80
-	android:name
-		ADDED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:22:22-77
-uses-permission#android.permission.WRITE_SETTINGS
-ADDED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:23:5-73
-	android:name
-		ADDED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:23:22-70
 uses-permission#android.permission.VIBRATE
 ADDED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:24:5-66
 	android:name
 		ADDED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:24:22-63
-uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:25:5-84
-	android:name
-		ADDED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:25:22-81
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:26:5-79
-	android:name
-		ADDED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:26:22-76
-uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:27:5-76
-	android:name
-		ADDED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:27:22-73
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
 ADDED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:31:5-81
 	android:name

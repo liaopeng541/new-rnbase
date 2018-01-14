@@ -2,5 +2,9 @@
     {
         "merged": "/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/res/merged/debug/xml/file_paths.xml",
+        "source": "/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-syan-image-picker/unspecified/res/xml/file_paths.xml"
     }
 ]

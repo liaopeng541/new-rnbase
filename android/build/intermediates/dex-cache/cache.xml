@@ -21,12 +21,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/io.reactivex.rxjava2/rxandroid/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/io.reactivex.rxjava2-rxandroid-2.0.1_7a6d6a77fd0bba08ab6046af5210f9a6a093af85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liao/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.5/4f1ac7ec0215e8f87ac80269baadc82878b87ed8/rxjava-2.0.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4f1ac7ec0215e8f87ac80269baadc82878b87ed8">
+        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/rxjava-2.0.5_44d60e0e1f07cb4a9085f59020e275f665e217f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/jars/libs/jpush-android-3.0.9.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="cf2cdfaa533441ae0faf4c1da12bd31f600815a7">
         <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/jpush-android-3.0.9_2e44262b51cea53399a66079bf97451cc92700c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-syan-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="722c9c7a31893ac1d52d06a964182837b4d7d8fc">
+        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/rnbase-react-native-syan-image-picker-unspecified_98a5239da38e8347dd1282c86d6148fac181d7ce.jar" />
     </item>
     <item
         is-multidex="false"
@@ -45,6 +72,15 @@
         revision="23.0.1"
         sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
         <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_bf9df7a74c2facdbe8839caacadcd4a4f206c493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liao/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0/dff931af436f0a2815d0109ab2258bbce2d6275d/glide-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/glide-4.0.0_ed33707ed31ebd263c65a1c9f2dcef1b88bdbf31.jar" />
     </item>
     <item
         is-multidex="false"
@@ -93,15 +129,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/liao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
-        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_6b0db6f73149f06f135c1876199763e74f03692a.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/liao/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
         jumboMode="false"
         optimize="true"
@@ -147,6 +174,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/liao/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_0eecbec9df3e3861e7b7c52d0076f3d0bbeac259.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/liao/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
         jumboMode="false"
         optimize="true"
@@ -171,6 +207,15 @@
         revision="23.0.1"
         sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
         <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_119d29e4f2f15d2b715157f6010632f8ec000c44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/ucrop/v2.1.7/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="edb846d19cb568b2aee84db9e9bb906b67bdca24">
+        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/com.github.LuckSiege.PictureSelector-ucrop-v2.1.7_e07c4bbdeee5d9dda082357fed1f4ceb7ca069d1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -237,6 +282,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/liao/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0/f80192e6fd828d41c7da6f3552b0bef5d89cb26e/annotations-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/annotations-4.0.0_9764b51cc60f8a42657f461cd3cda348156ae6be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee873e87bde5381e8643f55a77e1eccf3d2eab72">
+        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/com.github.LuckSiege.PictureSelector-picture_library-v2.1.7_23a88fec039af79aecc3328439f51062149fcf06.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -273,6 +336,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/liao/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0/47c487cc4e64e6ab127a517669ca9a7b49f8c61d/gifdecoder-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/gifdecoder-4.0.0_a80fba19f40c99de1882e5c55ea3b3e359c946da.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -288,6 +360,15 @@
         revision="23.0.1"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
         <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_2d829893211f38e476093ac0d33b550581e4858a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_6d048553b2c93e6ffd8366fb138b16f4d1a3119b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -309,12 +390,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/liao/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0/d88059003509074dd59fa226c822724bcf5ec0ca/disklrucache-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/disklrucache-4.0.0_871ec108465ed452690e56767ca5c27de347a212.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
         <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_acdd53a87a3c929f45a997c5703e0bcce8e108b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_526ff4c05461a701643cc431f32651ef884d5d9f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -354,21 +453,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jcore-react-native/unspecified/jars/libs/jcore-android-1.1.8.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1e35e311b68b4c8ad64328e68110d82dfabf719f">
-        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/jcore-android-1.1.8_ef4fb59a62402a3991c1b1586cd2506632dce976.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
         <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_7e84c953526e54b30e3099312edbc0b0ab09b995.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jcore-react-native/unspecified/jars/libs/jcore-android-1.1.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1e35e311b68b4c8ad64328e68110d82dfabf719f">
+        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/jcore-android-1.1.8_ef4fb59a62402a3991c1b1586cd2506632dce976.jar" />
     </item>
 
 </items>

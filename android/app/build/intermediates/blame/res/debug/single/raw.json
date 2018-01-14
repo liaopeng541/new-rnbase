@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/res/merged/debug/raw/music.wav",
+        "source": "/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.github.LuckSiege.PictureSelector/picture_library/v2.1.7/res/raw/music.wav"
+    },
+    {
         "merged": "/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/res/merged/debug/raw/keep.xml",
         "source": "/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/res/raw/keep.xml"
     }
