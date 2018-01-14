@@ -13,7 +13,7 @@ import {
 //import Icon from "react-native-vector-icons"
 import JPushModule from 'jpush-react-native';
 import Icon from 'react-native-vector-icons/Ionicons'
-
+import Device from 'react-native-device-info';
 
 export default class RootNavigator extends Component<{}> {
 
@@ -78,6 +78,7 @@ export default class RootNavigator extends Component<{}> {
                       <Text>1111</Text>
                 <Icon name={"ios-ribbon"} style={{backgroundColor: "rgba(0,0,0,0)"}}
                       size={20} color="#cc0033"/>
+                <Text>{Device.getUniqueID()}</Text>
 
             </View>
         );
