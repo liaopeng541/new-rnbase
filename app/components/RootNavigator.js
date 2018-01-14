@@ -109,7 +109,7 @@ export default class RootNavigator extends Component<{}> {
             <View style={styles.container}>
                 {/* <Icon name={"ios-person"} style={{backgroundColor: "rgba(0,0,0,0)"}}
                       size={20} color="#cc0033"/>*/}
-                      <Text>222</Text>
+                      <Text>444</Text>
                 <Icon name={"ios-ribbon"} style={{backgroundColor: "rgba(0,0,0,0)"}}
                       size={20} color="#cc0033"/>
                 <Text>{Device.getUniqueID()}</Text>
