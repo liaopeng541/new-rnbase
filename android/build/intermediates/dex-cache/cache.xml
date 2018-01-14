@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_79a24bb853ce3d8e7e2677b3a7100e8426922dcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -156,12 +165,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_74eaad6db8482f2bd753615885ea31ea65d4a798.jar" />
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_119d29e4f2f15d2b715157f6010632f8ec000c44.jar" />
     </item>
     <item
         is-multidex="false"
@@ -264,6 +273,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_aa76b5ab4839a6699745d64dd14d0b1ad23db4c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -315,6 +333,15 @@
         revision="23.0.1"
         sha1="2430e711762a749feb00b3d64858ca4768251b9d">
         <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_3b0cfbc3723d2553aac2a98ab8968bd1e8aab56e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-splash-screen/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="42a9c4bbafd1cb478e1a8f540fc3609c83745df8">
+        <dex dex="/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/pre-dexed/debug/rnbase-react-native-splash-screen-unspecified_bceef20f925acd4db897c89e08d09aa0792ef82c.jar" />
     </item>
     <item
         is-multidex="false"

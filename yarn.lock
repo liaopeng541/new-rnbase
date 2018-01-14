@@ -3588,6 +3588,10 @@ react-native-device-info@^0.13.0:
   version "0.13.0"
   resolved "http://r.cnpmjs.org/react-native-device-info/download/react-native-device-info-0.13.0.tgz#81051eebd3db6959e4f1d2cb0ae8df74105040cf"
 
+react-native-splash-screen@^2.0.0:
+  version "2.1.0"
+  resolved "http://r.cnpmjs.org/react-native-splash-screen/download/react-native-splash-screen-2.1.0.tgz#4e0a5e4e8c32974fe7a3cdb4d9a226d06d9daf4f"
+
 react-native-vector-icons@^4.5.0:
   version "4.5.0"
   resolved "http://r.cnpmjs.org/react-native-vector-icons/download/react-native-vector-icons-4.5.0.tgz#6b95619e64f62f05f579f74a01fe5640df95158b"

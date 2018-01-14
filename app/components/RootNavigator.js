@@ -14,7 +14,7 @@ import {
 import JPushModule from 'jpush-react-native';
 import Icon from 'react-native-vector-icons/Ionicons'
 import Device from 'react-native-device-info';
-
+import SplashScreen from 'react-native-splash-screen'
 export default class RootNavigator extends Component<{}> {
 
     initandroidpush()
@@ -47,6 +47,7 @@ export default class RootNavigator extends Component<{}> {
     }
     desandroidpush()
     {
+
         console.log("Will clear all notifications");
         JPushModule.clearAllNotifications();
     }
@@ -55,6 +56,7 @@ export default class RootNavigator extends Component<{}> {
         this.subscription.remove();
     }
     componentDidMount() {
+        SplashScreen.hide();
         if (Platform.OS == "android") {
             this.initandroidpush();
         }else{
@@ -75,7 +77,7 @@ export default class RootNavigator extends Component<{}> {
             <View style={styles.container}>
                 {/* <Icon name={"ios-person"} style={{backgroundColor: "rgba(0,0,0,0)"}}
                       size={20} color="#cc0033"/>*/}
-                      <Text>1111</Text>
+                      <Text>222</Text>
                 <Icon name={"ios-ribbon"} style={{backgroundColor: "rgba(0,0,0,0)"}}
                       size={20} color="#cc0033"/>
                 <Text>{Device.getUniqueID()}</Text>

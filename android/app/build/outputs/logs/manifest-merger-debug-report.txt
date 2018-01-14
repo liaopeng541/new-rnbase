@@ -30,6 +30,7 @@ MERGED from [com.facebook.react:react-native:0.44.3] /Users/liao/www/reactnative
 		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-sdk
 ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [rnbase:react-native-splash-screen:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-splash-screen/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [rnbase:react-native-device-info:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-device-info/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.4/AndroidManifest.xml:17:5-43
@@ -40,7 +41,9 @@ MERGED from [rnbase:react-native-vector-icons:unspecified] /Users/liao/www/react
 MERGED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [rnbase:jcore-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jcore-react-native/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.44.3] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
 MERGED from [com.android.support:support-v4:25.2.0] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.2.0] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.2.0] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/AndroidManifest.xml:21:5-23:63
@@ -56,7 +59,7 @@ MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/liao/www/react
 MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:2:3-70
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:25.2.0] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:11:9-38
 		INJECTED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml
@@ -67,6 +70,7 @@ MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/liao/www/reactnative/r
 		INJECTED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml
 application
 ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:13:5-35:19
+MERGED from [rnbase:react-native-splash-screen:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-splash-screen/unspecified/AndroidManifest.xml:11:5-15:19
 MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/AndroidManifest.xml:23:5-19
 MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.4/AndroidManifest.xml:23:5-19
 MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/AndroidManifest.xml:18:5-20:19
@@ -75,7 +79,9 @@ MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/liao/w
 MERGED from [rnbase:jpush-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/AndroidManifest.xml:38:5-102:19
 MERGED from [rnbase:jcore-react-native:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jcore-react-native/unspecified/AndroidManifest.xml:11:5-58:19
 MERGED from [com.facebook.react:react-native:0.44.3] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-v4:25.2.0] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-fragment:25.2.0] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-media-compat:25.2.0] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/AndroidManifest.xml:25:5-20
@@ -86,6 +92,8 @@ MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/liao/www/reactnative/r
 MERGED from [org.webkit:android-jsc:r174650] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/AndroidManifest.xml:2:3-17
 	android:label
 		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:16:7-39
+	android:supportsRtl
+		ADDED from [rnbase:react-native-splash-screen:unspecified] /Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/react-native-splash-screen/unspecified/AndroidManifest.xml:14:9-35
 	android:allowBackup
 		ADDED from /Users/liao/www/reactnative/rnbase/android/app/src/main/AndroidManifest.xml:15:7-33
 	android:icon

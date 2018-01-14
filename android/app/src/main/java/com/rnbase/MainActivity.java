@@ -3,7 +3,7 @@ package com.rnbase;
 import android.os.Bundle;
 
 import com.facebook.react.ReactActivity;
-
+import com.cboy.rn.splashscreen.SplashScreen;
 import cn.jpush.android.api.JPushInterface;
 
 public class MainActivity extends ReactActivity {
@@ -19,6 +19,7 @@ public class MainActivity extends ReactActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        SplashScreen.show(this);
         super.onCreate(savedInstanceState);
         JPushInterface.init(this);
     }
