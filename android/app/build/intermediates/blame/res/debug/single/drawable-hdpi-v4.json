@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jpush_ic_richpush_actionbar_back.png",
+        "source": "/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/res/drawable-hdpi-v4/jpush_ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jpush_richpush_progressbar.xml",
+        "source": "/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/res/drawable-hdpi-v4/jpush_richpush_progressbar.xml"
+    },
+    {
+        "merged": "/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jpush_richpush_btn_selector.xml",
+        "source": "/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/res/drawable-hdpi-v4/jpush_richpush_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jpush_ic_richpush_actionbar_divider.png",
+        "source": "/Users/liao/www/reactnative/rnbase/android/app/build/intermediates/exploded-aar/rnbase/jpush-react-native/unspecified/res/drawable-hdpi-v4/jpush_ic_richpush_actionbar_divider.png"
+    }
+]

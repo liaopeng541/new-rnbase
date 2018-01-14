@@ -1,0 +1,6 @@
+xcuserdata
+*.xcuserstate
+project.xcworkspace\
+.idea
+*.iml
+node_modules/
