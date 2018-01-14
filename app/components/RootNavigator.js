@@ -9,7 +9,8 @@ import {
     View,
     NativeAppEventEmitter,
     TouchableWithoutFeedback,
-    Dimensions
+    Dimensions,
+    StatusBar
 } from 'react-native';
 //import {StackNavigator,TabNavigator} from "react-navigation"
 //import Icon from "react-native-vector-icons"
@@ -19,6 +20,10 @@ import Device from 'react-native-device-info';
 import SplashScreen from 'react-native-splash-screen'
 import Orientation from 'react-native-orientation';
 import SYImagePicker from 'react-native-syan-image-picker'
+
+import {Provider} from "react-redux";
+import store from "../redux/configureStore"
+
 const { width } = Dimensions.get('window');
 /**
  * 默认参数
@@ -106,10 +111,15 @@ export default class RootNavigator extends Component<{}> {
     }
     render() {
         return (
+            <Provider store={store}>
             <View style={styles.container}>
+                <StatusBar
+                    backgroundColor="rgba(0,0,0,0)"
+                    translucent={true}
+                />
                 {/* <Icon name={"ios-person"} style={{backgroundColor: "rgba(0,0,0,0)"}}
                       size={20} color="#cc0033"/>*/}
-                      <Text>444</Text>
+                      <Text>333</Text>
                 <Icon name={"ios-ribbon"} style={{backgroundColor: "rgba(0,0,0,0)"}}
                       size={20} color="#cc0033"/>
                 <Text>{Device.getUniqueID()}</Text>
@@ -120,6 +130,7 @@ export default class RootNavigator extends Component<{}> {
                 </TouchableWithoutFeedback>
 
             </View>
+            </Provider>
         );
     }
 }
